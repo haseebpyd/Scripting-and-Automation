@@ -1,0 +1,15 @@
+Detailed documentation is avalible on my website.
+http://www.visionprogrammer.com/2020/05/python-script-for-organizing-files.html
+
+## Libraries I used:
+
+- os library
+- shutil library
+
+## Properties:
+
+- Best for organizing your files in your downloads folder
+- Files are moved in respective folder whose name is according to file extention
+- For Example png_folder, pdf_folder 
+- Can organize 10,000 files in just 3 seconds
+
