@@ -1,3 +1,5 @@
+#Documentation is avalible on http://www.visionprogrammer.com/2020/05/python-script-for-organizing-files.html
+
 from os import listdir
 from os.path import isfile, join
 import os
